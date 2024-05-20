@@ -1,0 +1,3 @@
+Mari kita lihat apakah ada kata yang sama di kedua file.
+Ini adalah contoh file teks kedua.
+Beberapa kata mungkin sama, tetapi beberapa lainnya mungkin berbeda.
